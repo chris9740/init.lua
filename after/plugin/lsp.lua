@@ -12,7 +12,8 @@ nvim_lsp.cssls.setup {
     capabilities = capabilities,
 }
 
-nvim_lsp.tsserver.setup({})
+nvim_lsp.tsserver.setup{}
+nvim_lsp.bashls.setup{}
 
 lsp.preset('recommended')
 
