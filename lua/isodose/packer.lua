@@ -18,6 +18,9 @@ return require('packer').startup(function(use)
             boolean = 'none'
         },
         colors = {
+            palette = {
+                samuraiRed = '#f03030',
+            },
             theme = {
                 wave = {
                     syn = {
