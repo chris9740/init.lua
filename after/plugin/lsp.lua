@@ -36,4 +36,3 @@ lsp.configure('rust_analyzer', {
 })
 
 lsp.setup()
-
